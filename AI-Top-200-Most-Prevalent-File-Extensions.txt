@@ -1,0 +1,200 @@
+1. .txt - Text file
+2. .doc - Microsoft Word document
+3. .docx - Microsoft Word Open XML document
+4. .xls - Microsoft Excel spreadsheet
+5. .xlsx - Microsoft Excel Open XML spreadsheet
+6. .ppt - Microsoft PowerPoint presentation
+7. .pptx - Microsoft PowerPoint Open XML presentation
+8. .pdf - Portable Document Format
+9. .jpg - JPEG image
+10. .jpeg - JPEG image
+11. .png - Portable Network Graphics
+12. .gif - Graphics Interchange Format
+13. .bmp - Bitmap image
+14. .tiff - Tagged Image File Format
+15. .svg - Scalable Vector Graphics
+16. .html - HyperText Markup Language
+17. .css - Cascading Style Sheets
+18. .js - JavaScript file
+19. .xml - Extensible Markup Language
+20. .json - JavaScript Object Notation
+21. .zip - Compressed file
+22. .rar - WinRAR compressed file
+23. .tar - Archive file
+24. .gz - Gzip compressed file
+25. .exe - Executable file
+26. .bat - Batch file
+27. .sh - Shell script
+28. .dll - Dynamic Link Library
+29. .iso - Disk image file
+30. .mp3 - MPEG Audio Layer III
+31. .wav - Waveform Audio File Format
+32. .aac - Advanced Audio Codec
+33. .flac - Free Lossless Audio Codec
+34. .mp4 - MPEG-4 video
+35. .avi - Audio Video Interleave
+36. .mov - Apple QuickTime Movie
+37. .wmv - Windows Media Video
+38. .mkv - Matroska Video
+39. .webm - WebM video
+40. .3gp - 3GPP Multimedia
+41. .psd - Adobe Photoshop document
+42. .ai - Adobe Illustrator file
+43. .indd - Adobe InDesign document
+44. .svgz - Compressed SVG file
+45. .eps - Encapsulated PostScript
+46. .raw - Raw image format
+47. .cr2 - Canon Raw image
+48. .nef - Nikon Raw image
+49. .orf - Olympus Raw image
+50. .dng - Digital Negative
+51. .key - Apple Keynote presentation
+52. .odt - OpenDocument Text
+53. .ods - OpenDocument Spreadsheet
+54. .odp - OpenDocument Presentation
+55. .dot - Microsoft Word Template
+56. .dotx - Microsoft Word Open XML Template
+57. .xlt - Microsoft Excel Template
+58. .xltx - Microsoft Excel Open XML Template
+59. .pot - Microsoft PowerPoint Template
+60. .potx - Microsoft PowerPoint Open XML Template
+61. .mobi - Mobipocket eBook
+62. .epub - Electronic Publication
+63. .fb2 - FictionBook
+64. .txt - Plain text file
+65. .log - Log file
+66. .csv - Comma-Separated Values
+67. .vcf - vCard file
+68. .ics - iCalendar file
+69. .sql - Structured Query Language
+70. .db - Database file
+71. .mdb - Microsoft Access Database
+72. .accdb - Microsoft Access Database (newer)
+73. .sqlite - SQLite Database
+74. .pdb - Palm Database
+75. .pfx - Personal Information Exchange
+76. .cer - Certificate file
+77. .crt - Certificate file
+78. .pem - Privacy Enhanced Mail
+79. .key - Security key
+80. .der - Distinguished Encoding Rules
+81. .srt - SubRip Subtitle file
+82. .vtt - Web Video Text Tracks
+83. .ass - Advanced SubStation Alpha
+84. .xml - XML file
+85. .xsd - XML Schema Definition
+86. .xsl - Extensible Stylesheet Language
+87. .dtd - Document Type Definition
+88. .svg - Scalable Vector Graphics
+89. .class - Java Class file
+90. .jar - Java Archive
+91. .war - Web Application Archive
+92. .ear - Enterprise Archive
+93. .rb - Ruby file
+94. .py - Python file
+95. .php - PHP file
+96. .html - HyperText Markup Language
+97. .pl - Perl file
+98. .go - Go language file
+99. .cs - C# file
+100. .java - Java source file
+101. .swift - Swift source file
+102. .r - R script
+103. .sql - Structured Query Language file
+104. .sh - Shell script file
+105. .ps1 - PowerShell script
+106. .apk - Android Package Kit
+107. .app - MacOS application
+108. .bat - Batch file
+109. .cgi - Common Gateway Interface script
+110. .pl - Perl script
+111. .rb - Ruby script
+112. .lua - Lua script
+113. .go - Go language file
+114. .json - JSON file
+115. .yaml - YAML file
+116. .yml - YAML file
+117. .bkp - Backup file
+118. .tmp - Temporary file
+119. .dmg - Disk Image file (Mac)
+120. .toast - Toast image file
+121. .vdi - VirtualBox Disk Image
+122. .vmdk - VMware Disk Image
+123. .xci - Nintendo Switch Game Card Image
+124. .rom - Read-Only Memory image
+125. .sav - Save file
+126. .ini - Initialization file
+127. .cfg - Configuration file
+128. .properties - Java properties file
+129. .lock - Lock file
+130. .pub - Public key file
+131. .shn - Shorten audio file
+132. .aiff - Audio Interchange File Format
+133. .m4a - MPEG-4 Audio
+134. .ogg - Ogg Vorbis Audio
+135. .opus - Opus audio file
+136. .wma - Windows Media Audio
+137. .cpl - Windows Control Panel file
+138. .lnk - Windows shortcut
+139. .url - Internet shortcut
+140. .wsf - Windows Script File
+141. .xap - Silverlight Application Package
+142. .vsix - Visual Studio Extension
+143. .appx - Windows App Package
+144. .xlam - Excel Macro-Enabled Add-in
+145. .dotm - Word Macro-Enabled Template
+146. .potm - PowerPoint Macro-Enabled Template
+147. .pdb - Program Database
+148. .dtd - Document Type Definition
+149. .gpx - GPS Exchange Format
+150. .kml - Keyhole Markup Language
+151. .kmz - Compressed KML file
+152. .m3u - Multimedia Playlist file
+153. .m3u8 - UTF-8 M3U playlist
+154. .cue - Cue Sheet file
+155. .bin - Binary file
+156. .cpl - Control Panel file
+157. .h - C/C++ Header file
+158. .hpp - C++ Header file
+159. .java - Java source file
+160. .class - Java class file
+161. .csproj - C# Project file
+162. .vbproj - Visual Basic Project file
+163. .sln - Visual Studio Solution file
+164. .xcodeproj - Xcode Project file
+165. .plist - Property List file (macOS)
+166. .apk - Android Application Package
+167. .jar - Java Archive file
+168. .war - Web Application Archive
+169. .ear - Enterprise Archive
+170. .dll - Dynamic Link Library
+171. .exe - Executable file
+172. .msi - Microsoft Installer file
+173. .bat - Batch file
+174. .cmd - Command script
+175. .vbs - VBScript file
+176. .wsf - Windows Script File
+177. .wsc - Windows Script Component
+178. .wsdl - Web Services Description Language
+179. .xsd - XML Schema Definition
+180. .fla - Adobe Flash file
+181. .swf - Shockwave Flash file
+182. .flv - Flash Video file
+183. .webm - WebM video file
+184. .mpg - MPEG video file
+185. .mpeg - MPEG video file
+186. .mpe - MPEG video file
+187. .qt - QuickTime Movie file
+188. .3g2 - 3GPP2 Multimedia file
+189. .dvr-ms - Microsoft Digital Video Recording file
+190. .m2ts - MPEG-2 Transport Stream file
+191. .mts - MPEG Transport Stream file
+192. .hevc - High-Efficiency Video Coding
+193. .h264 - H.264 video file
+194. .heif - High Efficiency Image File Format
+195. .ico - Icon file
+196. .cur - Cursor file
+197. .ani - Animated cursor file
+198. .wrl - VRML file
+199. .x3d - Extensible 3D file
+200. .blend - Blender file
